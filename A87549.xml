@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Syons calamitye or Englands miserye hieroglyphically delineated.</title>
+            <author>Jackman, A.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87549</idno><idno type="EEBO-CITATION">99870702</idno>
+  <idno type="VID">123097</idno>
+  <idno type="EEBO-PROQUEST">2240945980</idno>
+  
+            <idno type="STC">Wing J63</idno>
+            <idno type="STC">Thomason 669.f.8[7]</idno>
+            <idno type="STC">ESTC R212048</idno>
+            <idno type="PROQUEST">99870702</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99870702e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123097)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f8[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Syons calamitye or Englands miserye hieroglyphically delineated.</title>
+                  <author>Jackman, A.</author>
+               </titleStmt>
+               <extent>2 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>sold by Nathaniell Gilbye,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An engraved plate with descriptive verses.</note>
+                  <note>Verse - "Alas poore England! how art thou distrest".</note>
+                  <note>Thomason copy cropped at foot; imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <p>Praenobili et Honoratissimo Dnō Algernon Comit Northumbriae &amp;tc: Summo Angliae Thalassiarchae et Regi e Secretioribus Consilijs Nobilis{que} ordinis Garterij Equiti: Hasce Studiorum suorum Primitias</p>
+            <closer>
+               <signed>A: Jackman Submisse Dedicat.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="illustration_with_verse_key">
+            <pb facs="tcp:123097:1"/>
+            <head>SYONS CALAMITYE OR ENGLANDS MISERYE HIEROGLYPHICALLY DELINEATED.</head>
+            <div type="illustration">
+               <p>
+                  <figure>
+                     <figDesc>elaborate allegorical illustration</figDesc>
+                     <figure>
+                        <figDesc>the center of the picture, from bottom to top</figDesc>
+                        <figure>
+                           <head>M</head>
+                           <head>Pro Rege Ecclesia Lege et Patria</head>
+                           <figDesc>depiction of the Commons on their knees in supplication</figDesc>
+                           <sp>
+                              <p>A te Domine Speramus Salutem</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>E</head>
+                           <head>Veritatem Sequi necesse est.</head>
+                           <figDesc>depiction of courtiers without the castle, following the light</figDesc>
+                        </figure>
+                        <figure>
+                           <head>C</head>
+                           <head>Flumina Misericordiae</head>
+                           <figDesc>moat and castle wall</figDesc>
+                        </figure>
+                        <figure>
+                           <head>D</head>
+                           <figDesc>castle gate, with guard</figDesc>
+                        </figure>
+                        <figure>
+                           <head>B</head>
+                           <figDesc>within the castle, two opposing armies, paradoxically labeled</figDesc>
+                           <figure>
+                              <head>Triticum inter Glumā</head>
+                              <figDesc>army on left</figDesc>
+                           </figure>
+                           <figure>
+                              <head>Gluma inter Triticum</head>
+                              <figDesc>army on right</figDesc>
+                           </figure>
+                        </figure>
+                        <figure>
+                           <head>H</head>
+                           <head>Astrea</head>
+                           <figDesc>within the castle, female figure holding a net and a sword, surmounted by the sun</figDesc>
+                        </figure>
+                        <figure>
+                           <head>G</head>
+                           <figDesc>within the castle, men of evil counsel holding the net by a rope</figDesc>
+                        </figure>
+                        <figure>
+                           <head>A</head>
+                           <figDesc>within the castle, wild-haired female figure (England) ensnared by the net</figDesc>
+                        </figure>
+                        <figure>
+                           <head>F</head>
+                           <figDesc>within the castle, two female figures (Conscience and Justice) ensnared by the net</figDesc>
+                        </figure>
+                        <figure>
+                           <head>I</head>
+                           <figDesc>in a shrine, directly below the Divine Eye, the figure of a King in a posture of worship</figDesc>
+                           <sp>
+                              <p>O Lord behold</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>K</head>
+                           <figDesc>in a shrine, directly below the Divine Eye, the figure of a Queen (allegorically The Law) in a posture of worship</figDesc>
+                           <sp>
+                              <p>Jusjurandum serva</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>L</head>
+                           <figDesc>in a shrine, directly below the Divine Eye, chained to both king and queen, a crown and sceptre</figDesc>
+                           <q>Credite et Vivite</q>
+                        </figure>
+                        <figure>
+                           <head>N</head>
+                           <head>Philosophus</head>
+                           <figDesc>to one side of castle and shrine, the figure of a philosopher, addressing evil counselors and king</figDesc>
+                           <sp>
+                              <p>Cavete Malum Consilium Consultari pessimum</p>
+                           </sp>
+                           <sp>
+                              <p>Sivis Omnia Subjicere Subjice te Rationi</p>
+                           </sp>
+                        </figure>
+                     </figure>
+                     <figure>
+                        <figDesc>the four corners of the picture</figDesc>
+                        <figure>
+                           <head>h</head>
+                           <head>The smooth Tongu'd French man sayes Oh! that's for me</head>
+                           <figDesc>figure of a Frenchman</figDesc>
+                           <sp>
+                              <p>ista mihi</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>i</head>
+                           <head>The Hungrie Spaniard wisheth it's good Beefe</head>
+                           <figDesc>figure of a Spaniard</figDesc>
+                           <sp>
+                              <p>Valde Esurio</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>k</head>
+                           <head>The Dutch man bids hands of; that shall not be.</head>
+                           <figDesc>depiction of a Dutchman</figDesc>
+                           <sp>
+                              <p>Non aude sed time</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>l</head>
+                           <head>The Lord Dane cries, if these hold I'le be cheefe</head>
+                           <figDesc>(top left) figure of a man</figDesc>
+                           <sp>
+                              <p>Redditum expecto</p>
+                           </sp>
+                        </figure>
+                     </figure>
+                     <figure>
+                        <head>Ecclesia Languens.</head>
+                        <figDesc>top left segment (regarding the Church)</figDesc>
+                        <figure>
+                           <head>O</head>
+                           <figDesc>depiction of a church</figDesc>
+                        </figure>
+                        <figure>
+                           <head>P</head>
+                           <head>S. Theologi Sinceri</head>
+                           <figDesc>figure of four clerics</figDesc>
+                           <sp>
+                              <p>Infrate Scholam </p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>Q</head>
+                           <head>Susurrores</head>
+                           <figDesc>figure of two politicians</figDesc>
+                           <sp>
+                              <p>Nolimus colem tangere</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>R</head>
+                           <head>Adulatores</head>
+                           <figDesc>figure of two men (Flatterers) carrying croziers</figDesc>
+                        </figure>
+                        <figure>
+                           <head>S</head>
+                           <head>Inconcionatores</head>
+                           <figDesc>figure of man (Dunce) leading prisoner</figDesc>
+                           <sp>
+                              <p>Nihil Refert ad nos</p>
+                           </sp>
+                           <sp>
+                              <p>Vae mihi</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>T</head>
+                           <figDesc>figure of three swordsmen confronting four men who have discarded books (Students)</figDesc>
+                           <sp>
+                              <p>Marte nec Mercurio?</p>
+                           </sp>
+                           <sp>
+                              <p>Victa jacet pietas</p>
+                           </sp>
+                        </figure>
+                     </figure>
+                     <figure>
+                        <head>Ratio Relicta</head>
+                        <figDesc>top right segment (regarding the state of reason)</figDesc>
+                        <figure>
+                           <head>X</head>
+                           <figDesc>figure of Judgement and Reason chained to a post</figDesc>
+                           <sp>
+                              <speaker>Reason</speaker>
+                              <p>Ulla salus belle?</p>
+                           </sp>
+                           <sp>
+                              <speaker>Judgement</speaker>
+                              <p>Nulla</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>Y</head>
+                           <figDesc>depiction of two apocalyptic figures (Passion and Fury) running</figDesc>
+                           <sp>
+                              <p>Fire</p>
+                           </sp>
+                           <sp>
+                              <p>Kill</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>Z</head>
+                           <figDesc>depiction of two mounted knights and a man holding a charter</figDesc>
+                           <sp>
+                              <p>No Monopolies I beseech you</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>a</head>
+                           <figDesc>depiction of two pack asses burdened with "HONORS"</figDesc>
+                        </figure>
+                        <figure>
+                           <head>b</head>
+                           <figDesc>depiction of two asses harnessed to a coach</figDesc>
+                        </figure>
+                        <figure>
+                           <head>c</head>
+                           <figDesc>depiction of Misery riding in state</figDesc>
+                        </figure>
+                        <figure>
+                           <head>d</head>
+                           <figDesc>depiction of Famine catching up to coach</figDesc>
+                        </figure>
+                        <figure>
+                           <head>e</head>
+                           <figDesc>depiction of Fate in pursuit of Famine, bearing dart and hourglass</figDesc>
+                           <q>Dulce bellum inexpertis</q>
+                           <q>Hic labor hoc opus est</q>
+                        </figure>
+                     </figure>
+                     <figure>
+                        <head>Hibernia Patiens.</head>
+                        <figDesc>left central segment (regarding Ireland)</figDesc>
+                        <figure>
+                           <head>f</head>
+                           <figDesc>Ireland as a woman suffering, surrounded by scenes of torture, battle, and death, including gallows.</figDesc>
+                           <q>
+                              <bibl>Lament: 2 v 16.20.21.</bibl>
+                              <bibl>Lamen: 5. v. 1 2. 3.</bibl>
+                           </q>
+                        </figure>
+                     </figure>
+                     <figure>
+                        <head>Scotia Triticum Ventilans</head>
+                        <figDesc>right central segment (regarding Scotland)</figDesc>
+                        <figure>
+                           <head>g</head>
+                           <figDesc>figure of man holding a sack</figDesc>
+                           <sp>
+                              <p>I have gott somethinge</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of a woman gathering things from the ground</figDesc>
+                           <sp>
+                              <p>Oh you shall have dainety twopences</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of a woman threshing</figDesc>
+                           <sp>
+                              <p>The wheat for me y<seg rend="sup">e</seg> chaffe for thee</p>
+                           </sp>
+                        </figure>
+                     </figure>
+                     <figure>
+                        <head>Lex Subjecta</head>
+                        <figDesc>lower left segment (regarding law)</figDesc>
+                        <figure>
+                           <head>W</head>
+                           <figDesc>depiction of jugglers (Knaves and Fools)</figDesc>
+                           <figure>
+                              <figDesc>figure of juggler pulling down a column (Law) marked Cunttis eadem</figDesc>
+                              <sp>
+                                 <p>Te flectere faciam</p>
+                              </sp>
+                           </figure>
+                           <figure>
+                              <figDesc>figure of a fool beating a man (Conscience)</figDesc>
+                              <sp>
+                                 <speaker>Spreta</speaker>
+                                 <p>Estne Deus?</p>
+                              </sp>
+                              <sp>
+                                 <speaker>Conscientia</speaker>
+                                 <p>Flocci pendo</p>
+                              </sp>
+                           </figure>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of a man on his knees</figDesc>
+                           <sp>
+                              <p>Nemo tenetur &amp;c</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of six seated men</figDesc>
+                           <q>Memoria justi vivet in Aeternum</q>
+                           <sp>
+                              <p>Obliti sumus Parliamenti</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of four men</figDesc>
+                           <sp>
+                              <p>Our Canon</p>
+                           </sp>
+                           <sp>
+                              <p>So shall he know</p>
+                           </sp>
+                           <sp>
+                              <p>Choake him w<seg rend="sup">th</seg> an eie</p>
+                           </sp>
+                           <sp>
+                              <p>The knav's wittie</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <figDesc>depiction of a sealed document</figDesc>
+                           <p>Hinc petitio et Perditio hujus.</p>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of two standing men</figDesc>
+                           <sp>
+                              <p>Ne timeas</p>
+                           </sp>
+                           <sp>
+                              <p>Heu quanta de spe decidam</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <figDesc>depiction of two men apparently duelling with pistols whilst being carried up or down a well in buckets</figDesc>
+                           <sp>
+                              <p>Hodie mihi cras tibi</p>
+                           </sp>
+                           <sp>
+                              <p>Tem<g ref="char:EOLhyphen"/>pora mutantur</p>
+                           </sp>
+                        </figure>
+                     </figure>
+                     <figure>
+                        <head>Phantasia Triumphans</head>
+                        <figDesc>lower right segment (regarding unreason)</figDesc>
+                        <figure>
+                           <head>V</head>
+                           <figDesc>figure of a delusional man and woman</figDesc>
+                           <sp>
+                              <p>I shall be Kinge of Jerusalem</p>
+                           </sp>
+                           <sp>
+                              <p>and I Queene</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <p>Tusans Ratione Philautos</p>
+                           <p>Hinc illae Lachrimae</p>
+                           <figDesc>figure of a preacher (?) and a mechanic (?) arm in arm</figDesc>
+                           <q>
+                              <bibl>2. Tim. 3. 2. Tim. 4</bibl>
+                           </q>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of a man</figDesc>
+                           <sp>
+                              <p>I Speake all extempore nonsence naturally.</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of a young man</figDesc>
+                           <sp>
+                              <p>Ther's nothing to oppose us</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of a woman</figDesc>
+                           <sp>
+                              <p>Stand further of etc.</p>
+                           </sp>
+                           <q>
+                              <bibl>Isay: 65. v. 5.</bibl>
+                           </q>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of a man smoking a pipe</figDesc>
+                           <sp>
+                              <p>All's our owne</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <figDesc>figure of school children</figDesc>
+                           <sp>
+                              <p>we are wiser then our Teachers</p>
+                           </sp>
+                        </figure>
+                        <figure>
+                           <head>a Vomere ad Rostra</head>
+                           <figDesc>figure of a ranter</figDesc>
+                           <sp>
+                              <p>I am the Prophett sent</p>
+                           </sp>
+                        </figure>
+                     </figure>
+                  </figure>
+               </p>
+               <pb facs="tcp:123097:2"/>
+               <lg>
+                  <l>
+                     <ref target="#A87549-A">A</ref> Alas Poore England! how art thou Distrest</l>
+                  <l>With Warre? which for a longe time was soe blest</l>
+                  <l>With Peace: that all thy Neigbouringe Nations</l>
+                  <l>Admir'de thy Glorye when all their Stations</l>
+                  <l>Were even fild with bloodye warres and strife</l>
+                  <l>Then did thy Children Live a Peacefull life.</l>
+                  <l>
+                     <ref target="#A87549-B">B</ref> What? Armies fightinge what doe these portend thee?</l>
+                  <l>Or health or safetie? noe; this is the way to end thee</l>
+                  <l>The Kinge against his People! (what meanes this?)</l>
+                  <l>And they 'gainst <hi>Him,</hi> Destruction sure it is</l>
+                  <l>
+                     <ref target="#A87549-C">C</ref> Ah, Loe, thy Castle is surprised▪<hi>
+                        <ref target="#A87549-D">D</ref> Warre</hi> on thy Wall</l>
+                  <l>
+                     <ref target="#A87549-E">E</ref> And Peace, and <hi>Truth</hi> excluded▪ but thy fall</l>
+                  <l>
+                     <ref target="#A87549-F">F</ref> To this, is thus; <hi>Conscience</hi> and <hi>Justice</hi> late</l>
+                  <l>The Props and Pillers of thy Glorious State</l>
+                  <l>Have bene Intangled in a Subtile Snare</l>
+                  <l>
+                     <ref target="#A87549-G">G</ref> By Evill <hi>Counsels;</hi> Soe that now they are</l>
+                  <l>Scarce able to Releive thee: though the Care</l>
+                  <l>
+                     <ref target="#A87549-H">H</ref> And Providence of <hi>Astrea</hi> doth not Spare</l>
+                  <l>To breake this stronge Compacted <hi>Nett</hi> asunder</l>
+                  <l>To give them power to cheare thee, whilst others wonder,</l>
+                  <l>And Greive at the Discoverie thinkinge th' Event,</l>
+                  <l>Could never have been discern'de by Parliament.</l>
+                  <l>But blest be God, that Gave her Eyes to sée</l>
+                  <l>And Heart to heale thy bleeding <hi>Miserie.</hi>
+                  </l>
+                  <l>
+                     <ref target="#A87549-I">I</ref> Behold thy Kinge, now touch'd with Sense of this</l>
+                  <l>Bewailes thy <hi>Miserie▪</hi> and Prayes that Peace</l>
+                  <l>May once more kisse thee; whilst the <ref target="#A87549-K">K</ref> Lawe,</l>
+                  <l>His Mate Inseperable; bids him Awe</l>
+                  <l>His <hi>God,</hi> and keepe his <hi>Oath,</hi> and <hi>God</hi> will send</l>
+                  <l>
+                     <hi>Warre</hi> out, Peace in, and <hi>Plentie</hi> to his <hi>Land.</hi>
+                  </l>
+                  <l>
+                     <ref target="#A87549-L">L</ref> The <hi>Chaine</hi> Supportinge <hi>Scepter,</hi> and the <hi>Crowne</hi>
+                  </l>
+                  <l>Denotes, that these disiointed? all fals Downe.</l>
+                  <l>
+                     <ref target="#A87549-M">M</ref> Alas the <hi>Com̄ons</hi> now belowe Lament,</l>
+                  <l>To see the <hi>Kinge State, Church;</hi> and <hi>Lawe</hi> dissent</l>
+                  <l>And Warre breake in, and <hi>Peace</hi> and <hi>Truth</hi> excluded,</l>
+                  <l>And they themselves from hopes of Peace Secluded.</l>
+                  <l>
+                     <ref target="#A87549-N">N</ref>
+                     <hi>Phylosophers</hi> Grave to th' Kinge this Counsell give,</l>
+                  <l>To yeeld to <hi>Reason</hi> is the way to Live,</l>
+                  <l>And Raigne with <hi>Glorie,</hi> to the evill Crewe</l>
+                  <l>Of wicked <hi>Counsellors</hi> declare, theire dew',</l>
+                  <l>
+                     <ref target="#A87549-O">O</ref> The <hi>Catholicke Church</hi> beinge rent with <hi>Schisme</hi> Laments,</l>
+                  <l>
+                     <ref target="#A87549-P">P</ref> The Reverend <hi>Clergie,</hi> which were woont to vent</l>
+                  <l>Pure <hi>Doctrine,</hi> were opposde, by <ref target="#A87549-Q">Q</ref> Polititians, base</l>
+                  <l>
+                     <ref target="#A87549-R">R</ref> Flatterers and <ref target="#A87549-S">S</ref> Dunces Learn't to gaine the Place</l>
+                  <l>
+                     <ref target="#A87549-T">T</ref> Younge Students Grewe disheartened to See</l>
+                  <l>The Church thus Suffer; whilst Simple <ref target="#A87549-V">V</ref> Phantasie,</l>
+                  <l>Her unfounds franticke <hi>humours</hi> would advance,</l>
+                  <l>Above the <hi>Churches</hi> Glorie, Laid in a Trance.</l>
+                  <l>The <hi>Lawes</hi> yow See! how they have bene abused</l>
+                  <l>
+                     <ref target="#A87549-W">W</ref> By Knaves and Fooles; whilst Conscience is refused,</l>
+                  <l>Despis'de and Kickt, <hi>Flatterye</hi> imbrac'd, the Lawe.</l>
+                  <l>Puld downe <hi>Injústice</hi> Rais'd the <hi>Poore</hi> to awe.</l>
+                  <l>Were Lawes made by Lawes? then what? shall I say</l>
+                  <l>By whom? by <hi>Knaves▪</hi> what then? they ranne away</l>
+                  <l>
+                     <ref target="#A87549-X">X</ref>
+                     <hi>Reason</hi> and <hi>Judgment</hi> chainde▪ <hi>Passion</hi>
+                     <ref target="#A87549-Y">Y</ref> and <hi>Furie</hi> free?</l>
+                  <l>
+                     <ref target="#A87549-Z">Z</ref>
+                     <hi>Monopolies</hi> and <hi>Pattents,</hi> forced; Lett that not be;</l>
+                  <l>O <hi>God</hi> and <hi>Kinge!</hi>
+                     <ref target="#A87549-AB">a</ref>
+                     <hi>Asses</hi> downe Laden? what?</l>
+                  <l>With <hi>Honours!</hi> who Supports them? <hi>Com̄ons?</hi> how comes that?</l>
+                  <l>They cannot Live without theire helpe, though forc'de to doe'it,</l>
+                  <l>They now growe wearie! <hi>Vpstarts</hi> looke yow to 'it.</l>
+                  <l>
+                     <ref target="#A87549-BB">b</ref> Doe Asses drawe in <hi>Warre?</hi> who rides in <hi>State?</hi>
+                  </l>
+                  <l>
+                     <ref target="#A87549-EB">e</ref>
+                     <hi>Miserie,</hi> who runnes by? <hi>Famine!</hi>
+                     <ref target="#A87549-DB">d</ref> who followes? <hi>Fate.</hi>
+                  </l>
+                  <l>
+                     <ref target="#A87549-FB">f</ref> Poore <hi>Ireland</hi> feeles it; <ref target="#A87549-GB">g</ref>
+                     <hi>Scotland</hi> gaines the <hi>Gold.</hi>
+                  </l>
+                  <l>
+                     <ref target="#A87549-HB">h</ref> Whil'st <hi>France</hi> and <ref target="#A87549-IB">i</ref>
+                     <hi>Spaine</hi> doe Laugh thus to behold</l>
+                  <l>Our Generall <hi>Distractions;</hi> nay, the <ref target="#A87549-KB">k</ref>
+                     <hi>Schoole</hi> of warres</l>
+                  <l>
+                     <ref target="#A87549-LB">l</ref> And <hi>Denmarke</hi> too, rejoyce to see our <hi>Iarres.</hi>
+                  </l>
+                  <l>As hopeinge they themselves may hereby <hi>Gaine</hi>
+                  </l>
+                  <l>Our <hi>Kingedomes Glorie;</hi> wee, the <hi>Losse</hi> and <hi>Staine,</hi>
+                  </l>
+                  <l>But <hi>Lord</hi> in <hi>Mercye</hi> looke upon this <hi>Nation</hi>
+                  </l>
+                  <l>And be to it the <hi>Helmett</hi> of <hi>Salvation.</hi>
+                  </l>
+                  <l>Expell Unnaturall <hi>Warre,</hi> and grant us Peace</l>
+                  <l>And <hi>Unitie</hi> 'mongst <hi>Brethren,</hi> if thow Please;</l>
+                  <l>That all may <hi>Live</hi> to give thy <hi>Name</hi> the <hi>Praise.</hi>
+                  </l>
+                  <l>Restore thy <hi>Peace</hi> to <hi>us</hi> in these our <hi>Dayes.</hi> Amen.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Are to be sold by Nathaniell Gilbije at the Eagle &amp; childe in Lumbard streete</p>
+            <p>
+               <date>
+                  <add>May 13. 1643</add>
+               </date>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
